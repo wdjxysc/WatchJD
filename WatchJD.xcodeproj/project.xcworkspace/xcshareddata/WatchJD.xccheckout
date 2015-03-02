@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A8A1259-A283-4EE1-9F90-6A5D7BBA09AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WatchJD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9c2ed9b6-d853-ee4c-a492-2d8ec3d494c3++722</key>
+		<string>https://192.168.1.201/svn/work/IOS/workspace/WatchJD</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WatchJD/WatchJD.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9c2ed9b6-d853-ee4c-a492-2d8ec3d494c3++722</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9c2ed9b6-d853-ee4c-a492-2d8ec3d494c3++722</key>
+		<string>https://192.168.1.201/svn/work</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.201/svn/work/IOS/workspace/WatchJD/WatchJD/WatchJD.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9c2ed9b6-d853-ee4c-a492-2d8ec3d494c3++722</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9c2ed9b6-d853-ee4c-a492-2d8ec3d494c3++722</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WatchJD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
